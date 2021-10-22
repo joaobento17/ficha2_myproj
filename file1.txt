@@ -1,2 +1,3 @@
 Este é o exemplo de um ficheiro de texto file1
 Fiz uma alteração dentro do ficheiro file1.txt
+Alterações efetuadas no branch NovaFeature
